@@ -4,8 +4,8 @@ import os
 import csv
 import time
 
-path = r'C:\Users\fugufugu\Downloads\2-tmp\Mugic.Movie.etc'
-outpath = r'C:\Users\fugufugu\Downloads\books\text'
+path = r'C:\Users\'
+outpath = r'C:\Users\'
 def gettime():
     now = time.time_ns()
     nowms = now/(10**6)
